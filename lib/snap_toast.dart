@@ -3,8 +3,6 @@
 /// More dartdocs go here.
 library;
 
-export 'src/snap_toast_base.dart';
-
 export 'src/animations/toast_animations.dart';
 export 'src/models/toast_config.dart';
 export 'src/models/toast_position.dart';
