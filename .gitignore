@@ -8,3 +8,11 @@ pubspec.lock
 
 # Project exclude paths
 /build/
+
+# Coverage
+coverage/
+
+# IDE
+*.iml
+.idea/
+.vscode/

@@ -7,3 +7,7 @@ pubspec.lock
 ios/Pods/
 ios/.symlinks/
 android/.gradle/
+coverage/
+*.iml
+.idea/
+.vscode/
