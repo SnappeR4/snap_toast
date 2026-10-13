@@ -1,7 +1,7 @@
 name: snap_toast
 description: Lightweight, customizable, animated toast notifications for Flutter with zero dependencies.
 version: 0.1.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/SnappeR4/snap_toast.git
 
 environment:
   sdk: ^3.11.3
